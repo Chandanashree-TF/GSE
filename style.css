@@ -1,0 +1,16 @@
+#topdivision{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid red;
+    align-items: center;
+}
+
+#centredivision{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid pink;
+}
+#sib{
+    background-color: blue;
+}
